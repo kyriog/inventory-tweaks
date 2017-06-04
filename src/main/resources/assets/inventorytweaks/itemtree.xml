@@ -457,7 +457,24 @@
                 <boneBlock id="bone_block"/>
             </constructionBlock>
             <banner>
-                <itemBanner id="banner"/>
+                <itemBanner id="banner">
+                    <whiteItemBanner id="banner" damage="15"/>
+                    <orangeItemBanner id="banner" damage="14"/>
+                    <magentaItemBanner id="banner" damage="13"/>
+                    <lightBlueItemBanner id="banner" damage="12"/>
+                    <yellowItemBanner id="banner" damage="11"/>
+                    <limeItemBanner id="banner" damage="10"/>
+                    <pinkItemBanner id="banner" damage="9"/>
+                    <grayItemBanner id="banner" damage="8"/>
+                    <lightGrayItemBanner id="banner" damage="7"/>
+                    <cyanItemBanner id="banner" damage="6"/>
+                    <purpleItemBanner id="banner" damage="5"/>
+                    <blueItemBanner id="banner" damage="4"/>
+                    <brownItemBanner id="banner" damage="3"/>
+                    <greenItemBanner id="banner" damage="2"/>
+                    <redItemBanner id="banner" damage="1"/>
+                    <blackItemBanner id="banner" damage="0"/>
+                </itemBanner>
                 <standingBanner id="standing_banner"/>
                 <wallBanner id="wall_banner"/>
             </banner>
